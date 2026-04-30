@@ -39,5 +39,6 @@ This dashboard helps HR teams identify high-risk employee groups and improve emp
 * Power BI dashboard (.pbix)
 * Dashboard screenshot
 * Project documentation
-[Superstore_Cleaned.xlsx](https://github.com/user-attachments/files/27249940/Superstore_Cleaned.xlsx)
-<img width="757" height="440" alt="Superstore dashboard" src="https://github.com/user-attachments/assets/019b2acf-1686-4521-8a89-ed7244c3b295" />
+
+[IBM HR_Analytics_Cleaned.xlsx](https://github.com/user-attachments/files/27249984/IBM.HR_Analytics_Cleaned.xlsx)
+<img width="771" height="466" alt="IBM HR_dashboard" src="https://github.com/user-attachments/assets/8809381e-93e1-4033-affe-1972a4ee3687" />
