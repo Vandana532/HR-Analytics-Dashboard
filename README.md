@@ -38,7 +38,8 @@ This dashboard helps HR teams identify high-risk employee groups and improve emp
 * Excel cleaned dataset
 * Power BI dashboard (.pbix)
 * Dashboard screenshot
-* Project documentation
+
 
 [IBM HR_Analytics_Cleaned.xlsx](https://github.com/user-attachments/files/27249984/IBM.HR_Analytics_Cleaned.xlsx)
+Power BI Dashboard (.pbix file): (https://drive.google.com/file/d/1VCEmMCDGCmmN5Eq_nROwguzoqyFmr-Jk/view?usp=drive_link)
 <img width="771" height="466" alt="IBM HR_dashboard" src="https://github.com/user-attachments/assets/8809381e-93e1-4033-affe-1972a4ee3687" />
